@@ -1,0 +1,16 @@
+inicio
+variavel texto time1 ,time2
+variavel inteiro a,b
+ler time1
+ler time2
+ler a
+ler b
+se a > b entao
+escrever " vencedor é o ", time1
+fimse
+se a < b entao
+escrever " vencedor é o " , time2
+fimse
+se a = b entao
+escrever " empate "
+fimse
